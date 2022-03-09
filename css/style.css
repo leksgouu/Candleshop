@@ -10,7 +10,6 @@ body {
     color:rebeccapurple;
     font-family: 'Fredoka', sans-serif;
     text-align: center;
-
 }
 
 .intro-image{
@@ -87,7 +86,6 @@ body {
     transform: scale(1.2);
 }
 
-
 .packaging-text{
     background-color: #b64d36;
     color: #dbc5ad;
@@ -135,8 +133,6 @@ body {
     text-decoration: none;
     text-transform: uppercase;
     transition: all 0.3s;
-    
-
 }
 .footer{
     height: 250px;
@@ -156,6 +152,4 @@ body {
 }
 .footer ul li a:hover {
     color: rgb(238, 15, 171)
-    
-   
 }
